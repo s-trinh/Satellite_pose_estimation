@@ -40,4 +40,16 @@ There is an ambiguity in the object model, thus the frame axis flipping in some 
 
 ##### Canny
 
+<!-- <video controls src="Results/Earth_background/Canny_Earth_background.mp4" title="Canny results"></video> -->
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/13fb42fd-f028-4693-a960-56c6c12f4002" type="video/mp4" controls/>
+</div>
+
 ##### Estimated pose
+
+<!-- <video controls src="Results/Earth_background/Poses_Earth_background.mp4" title="Estimated poses"></video> -->
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/fefede9e-ba83-4883-8777-cfab9874d7f2" type="video/mp4" controls/>
+</div>
